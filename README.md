@@ -1,3 +1,3 @@
-# Algorithms and Datastructures
-This file consists of the project joshua rigo worked in Algorithms & Datastructures class in Spring of 2021. 
+# Algorithms and Datastructures Spring 2021
+This file consists of the projects joshua rigo worked in Algorithms & Datastructures class in Spring of 2021. 
 
