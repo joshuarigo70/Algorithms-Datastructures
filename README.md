@@ -1,9 +1,9 @@
-#Algorithms & Datastructures Jan-May 2021 Relevant Projects 
+# Algorithms & Datastructures Jan-May 2021 Relevant Projects 
 
 
-Upon execution of records.cpp: 
+# Compile & Execution  of records.cpp file: 
 
-The program inserts the records from employee.3.09.21.txt  into an ordered array that is maintained  at all times ordered by Last Name  in alphabetical order. Then prints the records by last name.  In addition, the years of service are printed along the annual salary and calculated annual retirement salary based upon years of service. The department code is printed based on the department provided in the file. Based upon legend below. Each record is validated prior to it being stored in the data structure, any record found to be in error will be written to an to a file called "error.dat" along with the reason for the error.
+This C++ program inserts the records from employee.3.09.21.txt  into an ordered array that is maintained  at all times ordered by Last Name  in alphabetical order. Then prints the records by last name.  In addition, the years of service are printed along the annual salary and calculated annual retirement salary based upon years of service. The department code is printed based on the department provided in the file. Based upon legend below. Each record is validated prior to it being stored in the data structure, any record found to be in error will be written to an to a file called "error.dat" along with the reason for the error.
 
 # Years of service |  Annual Retirement  
  0 – 5    4.5%,  
